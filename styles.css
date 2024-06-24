@@ -21,7 +21,7 @@ body {
 }
 
 .header {
-    background-color: #333;
+    background-color: #7aa5d4; /* Light blue */
     color: #fff;
     text-align: center;
     padding: 2em 0;
@@ -43,12 +43,12 @@ body {
 }
 
 .about {
-    background-color: #fff;
+    background-color: #f9d9e2; /* Light pink */
     padding: 40px 0;
 }
 
 .skills {
-    background-color: #f9f9f9;
+    background-color: #f4ead5; /* Light yellow */
     padding: 40px 0;
 }
 
@@ -61,12 +61,12 @@ body {
     display: inline-block;
     margin: 0 10px;
     padding: 10px 20px;
-    background-color: #e0e0e0;
+    background-color: #e8cfca; /* Light peach */
     border-radius: 20px;
 }
 
 .contact {
-    background-color: #fff;
+    background-color: #b2dab2; /* Light green */
     padding: 40px 0;
 }
 
